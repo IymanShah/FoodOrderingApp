@@ -18,3 +18,7 @@ Create a food Ordering App using some pre-set data {json}. The JSON can look lik
   4. Filter based on the tags.
   5. Marking any restaurant as fav
   
+
+
+
+This is sample code: To be used for reference only
