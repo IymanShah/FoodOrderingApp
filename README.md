@@ -21,4 +21,5 @@ Create a food Ordering App using some pre-set data {json}. The JSON can look lik
 
 
 
-This is sample code: To be used for reference only
+This is sample code.
+I am sharing this for educational-purposes only. Use at your own risk.
